@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AdlanMS_24120500014_UAS
 
 Proyek UAS Web Development
@@ -33,3 +34,6 @@ npm run build
 
 ## Lisensi
 Proyek ini dibuat untuk keperluan UAS dan bersifat open source.
+=======
+# adlan-portofolio
+>>>>>>> a87c27ef150b67ec6140dbd1be5c27c0ce133edd
